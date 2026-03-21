@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Nagarjun&fontSize=48&fontColor=fff&animation=twinkling&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud-Native&descAlignY=60"/>
-
+<br><br>
 <!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+AI+Products;Scaling+Systems;Full-Stack+Developer;Future+SaaS+Founder"/>
 
